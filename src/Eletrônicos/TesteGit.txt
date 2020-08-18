@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Testando ramificações
+=======
+Testando ramificações 
+>>>>>>> outroBranch
